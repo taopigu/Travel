@@ -22,7 +22,7 @@ export default{
   data () {
     return {
       touchStatus: false,
-      startY : 0,
+      startY: 0,
       timer: null
     }
   },
@@ -49,7 +49,6 @@ export default{
             this.$emit('change', this.letters[index])
           }
         }, 16)
-
       }
     },
     handleTouchEnd () {
