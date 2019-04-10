@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="banner" @click="handleBannerClick">
-      <img class="banner-img" src="//img1.qunarzz.com/sight/p0/1604/1e/1e75f8e1af9fe81f90.img.jpg_600x330_aeba2c96.jpg">
+      <img class="banner-img" src="//img1.qunarzz.com/sight/p0/1708/2b/2b3b94de99c0a425a3.img.jpg_600x330_b40971b4.jpg">
       <div class="banner-info">
         <div class="banner-title">世界花卉大观园(AAAA景区)</div>
         <div class="banner-number">
@@ -23,7 +23,7 @@ export default {
     CommonGallary
   },
   data () {
-    return  {
+    return {
       imgs: [
         '//img1.qunarzz.com/sight/p0/1604/1e/1e75f8e1af9fe81f90.img.jpg_600x330_aeba2c96.jpg',
         '//img1.qunarzz.com/sight/p0/1708/2b/2b3b94de99c0a425a3.img.jpg_600x330_b40971b4.jpg'
